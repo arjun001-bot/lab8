@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "root"; // MAMP default
+$password = "";
 $dbname = "client";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
